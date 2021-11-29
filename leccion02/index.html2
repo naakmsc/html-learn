@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titulos</title>
+</head>
+<!--<body style="background-color: rgb(199, 249, 255);">-->
+    <body>
+
+    <!-- Titulo -->
+    <!-- <h1 style="color:blue;font-size:50px;font-family: sans-serif;">Titulo h1</h1> -->
+    <!-- <h2>Titulo h2</h2>
+    <h3>Titulo h3</h3>
+    <h4>Titulo h4</h4>
+    <h5>Titulo h5</h5>
+    <h6>Titulo h6</h6> -->
+    
+    <!-- Parrafo -->
+    <!-- <p>Esto es un parrafo</p> -->
+    
+    <!-- Link  -->
+    <!-- <a href="https://facebook.com" target="_blank">Facebook</a>
+    <br>
+    <a href="pagina1.html" target="_blank">Pagina 1</a> -->
+
+    
+    <!-- Imagenes -->
+    <!-- <br>
+    <img src="../img/blue desert.jpg" alt="Desierto" width="20%" title="Desert Strike"> -->
+    <!-- <img src="http://globalmentoring.com.mx/imagenes/css3.png" alt="Css3">
+    <img src="http://globalmentoring.com.mx/imagenes/javascript.png" alt="javascript"> -->
+
+    <!-- Atributos -->
+    
+    <!-- <P title="Un parrafito" style="color:blue;">Este es un parrafo</P> -->
+
+    <!-- <pre>
+        Hello   hola
+            hi
+    </pre> -->
+
+    <!-- Formato -->
+<!-- 
+    <p><b>Etiqueta b negrita</b></p>
+    <p><strong>Etiqueta strong (textos importantes)</strong></p>
+    <p><i>Etiqueta i o italica</i></p>
+    <p><em>Etiqueta em (significado distinto)</em></p>
+    <p><small>Etiqueta small</small></p>
+    <p><mark>Etiqueta mark</mark></p>
+    <p><del>Etiqueta del</del></p>
+    <p><ins>Itiqueta ins</ins></p>
+    <p>Etiqueta sub H<sub>2</sub>O</p>
+    <p>Etiqueta sup 10<sup>5</sup></p> -->
+
+    <!-- Referencia de caracteres -->
+    <p>&excl;Hello&#x00021;</p>
+</body>
+</html>
